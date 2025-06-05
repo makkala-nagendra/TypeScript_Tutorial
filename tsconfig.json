@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "**/3 Object Types.ts", // or whichever causes the conflict
+    "**/5 Union and Intersection Types.ts", // exclude the file causing conflict
+    "**/duplicate-definitions-folder/**"     // or an entire folder
+  ]
+}
