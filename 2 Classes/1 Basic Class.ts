@@ -15,3 +15,8 @@ class Person {
 
 const p = new Person("Nani", 25);
 p.greet();
+
+// Avoid Global Interfaces
+// export function test(){
+//   // TODO 
+// }

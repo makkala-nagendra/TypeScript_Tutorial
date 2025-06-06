@@ -6,9 +6,9 @@ class Animal {
 }
 
 class Dog extends Animal {
-  makeSound(): void {
-    console.log("Woof!");
-  }
+  // makeSound(): void {
+  //   console.log("Woof!");
+  // }
 }
 
 const d = new Dog();

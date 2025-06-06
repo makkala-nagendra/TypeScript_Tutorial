@@ -1,8 +1,8 @@
 // any - disable type checking (use with caution)
 let randomValue: any = "Could be anything";
-randomValue = 10;
+randomValue = 10; console.log(randomValue);
 randomValue = true;
- console.log(randomValue);
+console.log(randomValue);
 
 // unknown - safer alternative to 'any'; must type-check before use
 let unknownValue: unknown = "Test";

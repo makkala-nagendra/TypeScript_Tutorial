@@ -7,7 +7,10 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
   },
+  "files": ["others/4 Declaration Merging.ts",
+"others/1 Full Demo of Null Checks.ts"],
   "exclude": [
+    "**/*",
     "node_modules",
     "**/3 Object Types.ts", // or whichever causes the conflict
     "**/5 Union and Intersection Types.ts", // exclude the file causing conflict
