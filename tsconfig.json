@@ -7,8 +7,12 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
   },
-  "files": ["others/4 Declaration Merging.ts",
-"others/1 Full Demo of Null Checks.ts"],
+  "files": [
+    "1 Data Types/*.ts",
+    "1 Classes/*.ts",
+    "3 Others/*.ts"
+  ],
+  
   "exclude": [
     "**/*",
     "node_modules",
