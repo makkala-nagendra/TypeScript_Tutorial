@@ -8,9 +8,10 @@
     "skipLibCheck": true
   },
   "files": [
-    "1 Data Types/*.ts",
-    "1 Classes/*.ts",
-    "3 Others/*.ts"
+    "**/*.ts",
+    // "1 Data Types/*.ts",
+    // "1 Classes/*.ts",
+    // "3 Others/*.ts"
   ],
   
   "exclude": [

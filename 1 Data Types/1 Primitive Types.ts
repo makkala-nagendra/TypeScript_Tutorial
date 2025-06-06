@@ -1,5 +1,5 @@
 // string - text values
-let name: string = "Nagendra";
+let name1: string = "Nagendra";
 
 // number - all numbers (integers, floats, etc.)
 let age: number = 25;
