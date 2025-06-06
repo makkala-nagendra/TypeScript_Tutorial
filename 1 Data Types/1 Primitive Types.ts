@@ -12,3 +12,5 @@ let nothingHere: null = null;
 
 // undefined - variable declared but not initialized
 let notAssigned: undefined = undefined;
+
+console.log(`Name: ${name1}, Age: ${age}, Active: ${isActive}, Nothing Here: ${nothingHere}, Not Assigned: ${notAssigned}`);
